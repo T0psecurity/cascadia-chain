@@ -26,7 +26,7 @@ require (
 	go.opencensus.io v0.23.0
 	google.golang.org/genproto v0.0.0-20221025140454-527a21cfbd71
 	google.golang.org/grpc v1.50.1
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.30.0
 )
 
 require cosmossdk.io/errors v1.0.0-beta.7
